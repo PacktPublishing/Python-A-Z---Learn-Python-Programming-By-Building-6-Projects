@@ -1,0 +1,82 @@
+[
+  {
+    "Date": 1,
+    "Visitors": 1500,
+    "BR": 20,
+    "Country": "USA",
+    "Clicks": 20,
+    "Day": "Tuesday"
+  },
+  {
+    "Date": 2,
+    "Visitors": 700,
+    "BR": 25,
+    "Country": "UK",
+    "Clicks": 35,
+    "Day": "Wednesday"
+  },
+  {
+    "Date": 3,
+    "Visitors": 900,
+    "BR": 15,
+    "Country": "India",
+    "Clicks": 37,
+    "Day": "Thursday"
+  },
+  {
+    "Date": 4,
+    "Visitors": 400,
+    "BR": 35,
+    "Country": "USA",
+    "Clicks": 12,
+    "Day": "Friday"
+  },
+  {
+    "Date": 5,
+    "Visitors": 500,
+    "BR": 14,
+    "Country": "Canada",
+    "Clicks": 35,
+    "Day": "Saturday"
+  },
+  {
+    "Date": 6,
+    "Visitors": 700,
+    "BR": 15,
+    "Country": "India",
+    "Clicks": 32,
+    "Day": "Sunday"
+  },
+  {
+    "Date": 7,
+    "Visitors": 600,
+    "BR": 20,
+    "Country": "India",
+    "Clicks": 37,
+    "Day": "Monday"
+  },
+  {
+    "Date": 8,
+    "Visitors": 700,
+    "BR": 16,
+    "Country": "USA",
+    "Clicks": 40,
+    "Day": "Tuesday"
+  },
+  {
+    "Date": 9,
+    "Visitors": 1200,
+    "BR": 27,
+    "Country": "USA",
+    "Clicks": 52,
+    "Day": "Wednesday"
+  },
+  {
+    "Date": 10,
+    "Visitors": 1400,
+    "BR": 32,
+    "Country": "Australia",
+    "Clicks": 57,
+    "Day": "Thursday"
+  }
+]

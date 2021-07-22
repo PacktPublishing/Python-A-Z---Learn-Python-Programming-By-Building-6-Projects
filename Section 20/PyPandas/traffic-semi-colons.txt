@@ -1,0 +1,11 @@
+Date;Visitors;BR;Country;Clicks;Day
+1;1500;20;USA;20;Tuesday
+2;700;25;UK;35;Wednesday
+3;900;15;India;37;Thursday
+4;400;35;USA;12;Friday
+5;500;14;Canada;35;Saturday
+6;700;15;India;32;Sunday
+7;600;20;India;37;Monday
+8;700;16;USA;40;Tuesday
+9;1200;27;USA;52;Wednesday
+10;1400;32;Australia;57;Thursday

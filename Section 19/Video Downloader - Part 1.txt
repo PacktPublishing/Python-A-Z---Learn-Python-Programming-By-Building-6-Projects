@@ -1,5 +1,0 @@
-https://pypi.org/project/pytube/
-
-https://www.youtube.com/watch?v=28W26QfiESs
-
-https://github.com/nficano/pytube/issues/434
